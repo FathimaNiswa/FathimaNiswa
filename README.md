@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fathima Niswa</h1>
 <h3 align="center">A Computer Science Student.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 📝 I regularly write articles on [https://medium.com/@fathimaniswanazer](https://medium.com/@fathimaniswanazer)
 
 - 📫 How to reach me **Fathimaniswanazer@gmail.com**
